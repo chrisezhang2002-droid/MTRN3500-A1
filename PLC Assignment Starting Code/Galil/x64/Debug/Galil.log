@@ -1,0 +1,6 @@
+﻿  GalilMain.cpp
+  Galil.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Embedded_funcs_x64_Debug.lib(Embedded_funcs.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+Embedded_funcs_x64_Debug.lib(Embedded_funcs.obj) : warning LNK4099: PDB 'Embedded_funcs_x64_Debug.pdb' was not found with 'Embedded_funcs_x64_Debug.lib(Embedded_funcs.obj)' or at 'C:\School\UNSW\MTRN3500\Assignment 1\PLC Assignment Starting Code\PLC Assignment Starting Code\executables\Embedded_funcs_x64_Debug.pdb'; linking object as if no debug info
+Embedded_funcs_x64_Debug.lib(pch.obj) : warning LNK4099: PDB 'Embedded_funcs_x64_Debug.pdb' was not found with 'Embedded_funcs_x64_Debug.lib(pch.obj)' or at 'C:\School\UNSW\MTRN3500\Assignment 1\PLC Assignment Starting Code\PLC Assignment Starting Code\executables\Embedded_funcs_x64_Debug.pdb'; linking object as if no debug info
+  Galil.vcxproj -> C:\School\UNSW\MTRN3500\Assignment 1\PLC Assignment Starting Code\PLC Assignment Starting Code\executables\Galil.exe
